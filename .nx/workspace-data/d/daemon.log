@@ -1,0 +1,287 @@
+[NX Daemon Server] - 2024-09-03T22:46:48.273Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-03T22:46:48.275Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-03T22:46:48.284Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-03T22:46:48.285Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-03T22:46:48.286Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-03T22:46:48.287Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-03T22:46:48.287Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-03T22:46:48.287Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-09-03T22:46:48.288Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-03T22:46:48.289Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-03T22:46:48.289Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)
+[NX Daemon Server] - 2024-09-03T22:46:48.579Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-03T22:46:48.580Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-03T22:46:48.582Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-03T22:46:48.583Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-03T22:46:48.583Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-03T22:46:48.584Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-03T22:46:48.584Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-03T22:46:48.584Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-09-03T22:46:48.586Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-03T22:46:48.586Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-03T22:46:48.586Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)
+[NX Daemon Server] - 2024-09-03T23:22:48.931Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-03T23:22:48.934Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-03T23:22:48.939Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-03T23:22:48.940Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-03T23:22:48.942Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-03T23:22:48.945Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-03T23:22:48.945Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-03T23:22:48.946Z - Handled FORCE_SHUTDOWN. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-09-03T23:22:48.947Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-03T23:22:48.948Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-03T23:22:48.949Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)
+[NX Daemon Server] - 2024-09-03T23:22:49.194Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-03T23:22:49.197Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-03T23:22:49.200Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-03T23:22:49.200Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-03T23:22:49.201Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-03T23:22:49.203Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-03T23:22:49.203Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-03T23:22:49.203Z - Handled FORCE_SHUTDOWN. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-09-03T23:22:49.204Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-03T23:22:49.204Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-03T23:22:49.205Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)
+[NX Daemon Server] - 2024-09-03T23:28:43.525Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-03T23:28:43.527Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-03T23:28:43.531Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-03T23:28:43.531Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-03T23:28:43.532Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-03T23:28:43.532Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-03T23:28:43.533Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-03T23:28:43.533Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-09-03T23:28:43.533Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-03T23:28:43.533Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-03T23:28:43.534Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)
+[NX Daemon Server] - 2024-09-03T23:28:43.803Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-03T23:28:43.806Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-03T23:28:43.821Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-03T23:28:43.823Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-03T23:28:43.823Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-03T23:28:43.831Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-03T23:28:43.831Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-03T23:28:43.831Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-09-03T23:28:43.832Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-03T23:28:43.832Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-03T23:28:43.832Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)
+[NX Daemon Server] - 2024-09-04T13:09:57.301Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-04T13:09:57.305Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-04T13:09:57.307Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-04T13:09:57.308Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-04T13:09:57.311Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-04T13:09:57.313Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-04T13:09:57.313Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-04T13:09:57.313Z - Handled FORCE_SHUTDOWN. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-09-04T13:09:57.316Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-04T13:09:57.318Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-04T13:09:57.318Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)
+[NX Daemon Server] - 2024-09-04T13:09:57.896Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-04T13:09:57.897Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-04T13:09:57.901Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-04T13:09:57.901Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-04T13:09:57.902Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-04T13:09:57.902Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-04T13:09:57.902Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-04T13:09:57.902Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-09-04T13:09:57.904Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-04T13:09:57.904Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-04T13:09:57.904Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)
+[NX Daemon Server] - 2024-09-04T16:25:20.066Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-04T16:25:20.069Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-04T16:25:20.071Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-04T16:25:20.072Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-04T16:25:20.073Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-04T16:25:20.074Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-04T16:25:20.074Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-04T16:25:20.074Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-09-04T16:25:20.075Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-04T16:25:20.076Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-04T16:25:20.076Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)
+[NX Daemon Server] - 2024-09-04T16:25:20.364Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-04T16:25:20.378Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-04T16:25:20.407Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-04T16:25:20.432Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-04T16:25:20.442Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-04T16:25:20.443Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-04T16:25:20.443Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-04T16:25:20.443Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-09-04T16:25:20.470Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-04T16:25:20.497Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-04T16:25:20.498Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)
+[NX Daemon Server] - 2024-09-05T15:48:05.058Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-05T15:48:05.066Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-05T15:48:05.070Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-05T15:48:05.073Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-05T15:48:05.084Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-05T15:48:05.088Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-05T15:48:05.088Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-05T15:48:05.089Z - Handled FORCE_SHUTDOWN. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2024-09-05T15:48:05.090Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-05T15:48:05.100Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-05T15:48:05.104Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)
+[NX Daemon Server] - 2024-09-05T15:48:05.529Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-05T15:48:05.530Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-05T15:48:05.532Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-05T15:48:05.533Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-05T15:48:05.534Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-05T15:48:05.536Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-05T15:48:05.536Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-05T15:48:05.536Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-09-05T15:48:05.538Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-05T15:48:05.538Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-05T15:48:05.539Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)
+[NX Daemon Server] - 2024-09-05T19:48:12.718Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-05T19:48:12.721Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-05T19:48:12.723Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-05T19:48:12.723Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-05T19:48:12.724Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-05T19:48:12.724Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-05T19:48:12.725Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-05T19:48:12.725Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-09-05T19:48:12.725Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-05T19:48:12.725Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-05T19:48:12.725Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)
+[NX Daemon Server] - 2024-09-05T19:48:12.976Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-05T19:48:12.978Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-05T19:48:12.980Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-05T19:48:12.980Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-05T19:48:12.988Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-05T19:48:12.994Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-05T19:48:12.995Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-05T19:48:12.995Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-09-05T19:48:12.996Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-05T19:48:12.996Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-05T19:48:12.996Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)
+[NX Daemon Server] - 2024-09-05T20:30:21.015Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-05T20:30:21.017Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-05T20:30:21.019Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-05T20:30:21.020Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-05T20:30:21.021Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-05T20:30:21.021Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-05T20:30:21.021Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-05T20:30:21.021Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-09-05T20:30:21.022Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-05T20:30:21.022Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-05T20:30:21.022Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)
+[NX Daemon Server] - 2024-09-05T20:30:21.166Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-05T20:30:21.167Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-05T20:30:21.174Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-05T20:30:21.175Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-05T20:30:21.175Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-05T20:30:21.176Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-05T20:30:21.176Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-05T20:30:21.176Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-09-05T20:30:21.177Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-05T20:30:21.177Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-05T20:30:21.177Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)
+[NX Daemon Server] - 2024-09-05T20:32:03.647Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-05T20:32:03.649Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-05T20:32:03.651Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-05T20:32:03.651Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-05T20:32:03.652Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-05T20:32:03.653Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-05T20:32:03.653Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-05T20:32:03.653Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-09-05T20:32:03.654Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-05T20:32:03.655Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-05T20:32:03.655Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)
+[NX Daemon Server] - 2024-09-05T20:32:03.797Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-05T20:32:03.798Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-05T20:32:03.802Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-05T20:32:03.802Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-05T20:32:03.803Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-05T20:32:03.805Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-05T20:32:03.805Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-05T20:32:03.805Z - Handled FORCE_SHUTDOWN. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-09-05T20:32:03.806Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-05T20:32:03.806Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-05T20:32:03.807Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)
+[NX Daemon Server] - 2024-09-05T22:05:50.010Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-05T22:05:50.012Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-05T22:05:50.013Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-05T22:05:50.013Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-05T22:05:50.014Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-05T22:05:50.015Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-05T22:05:50.015Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-05T22:05:50.015Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-09-05T22:05:50.015Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-05T22:05:50.016Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-05T22:05:50.016Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)
+[NX Daemon Server] - 2024-09-05T22:05:50.181Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-05T22:05:50.182Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-05T22:05:50.182Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-05T22:05:50.183Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-05T22:05:50.184Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-05T22:05:50.184Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-05T22:05:50.184Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-05T22:05:50.184Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-09-05T22:05:50.189Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-05T22:05:50.189Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-05T22:05:50.189Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)
+[NX Daemon Server] - 2024-09-05T23:41:56.856Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-05T23:41:56.861Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-05T23:41:56.865Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-05T23:41:56.865Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-05T23:41:56.868Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-05T23:41:56.869Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-05T23:41:56.870Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-05T23:41:56.870Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-09-05T23:41:56.872Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-05T23:41:56.872Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-05T23:41:56.873Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)
+[NX Daemon Server] - 2024-09-05T23:41:57.349Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-05T23:41:57.352Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-05T23:41:57.360Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-05T23:41:57.361Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-05T23:41:57.384Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-05T23:41:57.418Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-05T23:41:57.419Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-05T23:41:57.419Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2024-09-05T23:41:57.429Z - [WATCHER]: .nx/workspace-data/d/server-process.json was created or restored
+[NX Daemon Server] - 2024-09-05T23:41:57.446Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-05T23:41:57.446Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-05T23:41:57.450Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)
+[NX Daemon Server] - 2024-09-06T17:41:40.194Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-06T17:41:40.196Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-06T17:41:40.199Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-06T17:41:40.199Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-06T17:41:40.200Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-06T17:41:40.201Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-06T17:41:40.201Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-06T17:41:40.201Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-09-06T17:41:40.203Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-06T17:41:40.203Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-06T17:41:40.203Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)
+[NX Daemon Server] - 2024-09-06T17:41:40.385Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-06T17:41:40.387Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-06T17:41:40.389Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-06T17:41:40.389Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-06T17:41:40.390Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-06T17:41:40.390Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-06T17:41:40.390Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-06T17:41:40.390Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-09-06T17:41:40.392Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-06T17:41:40.392Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-06T17:41:40.392Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)
+[NX Daemon Server] - 2024-09-06T17:42:29.564Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-06T17:42:29.565Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-06T17:42:29.572Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-06T17:42:29.572Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-06T17:42:29.573Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-06T17:42:29.574Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-06T17:42:29.574Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-06T17:42:29.574Z - Handled FORCE_SHUTDOWN. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2024-09-06T17:42:29.574Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-06T17:42:29.575Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-06T17:42:29.575Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)
+[NX Daemon Server] - 2024-09-06T17:42:29.810Z - Started listening on: /var/folders/yk/9691prv91814ymwbbc2wkbnh0000gn/T/d560d67b42ca1836ff27/d.sock
+[NX Daemon Server] - 2024-09-06T17:42:29.812Z - [WATCHER]: Subscribed to changes within: /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (native)
+[NX Daemon Server] - 2024-09-06T17:42:29.815Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-06T17:42:29.815Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-09-06T17:42:29.816Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-09-06T17:42:29.816Z - [REQUEST]: Responding to the client. Shutdown initiated
+[NX Daemon Server] - 2024-09-06T17:42:29.816Z - Done responding to the client Shutdown initiated
+[NX Daemon Server] - 2024-09-06T17:42:29.816Z - Handled FORCE_SHUTDOWN. Handling time: 0. Response time: 0.
+[NX Daemon Server] - 2024-09-06T17:42:29.818Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (sources)
+[NX Daemon Server] - 2024-09-06T17:42:29.818Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-09-06T17:42:29.818Z - [WATCHER]: Stopping the watcher for /Users/jacksonboyett/Documents/LUKE/self-study/boilerplate/frontend (outputs)

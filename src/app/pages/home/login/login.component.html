@@ -1,0 +1,28 @@
+<div
+  class="flex flex-col items-center p-6 pb-10 gap-10 shadow-xl bg-white rounded-md w-96 h-3/4"
+>
+  <h1 class="text-3xl font-medium">Login</h1>
+  <form
+    [formGroup]="loginForm"
+    (ngSubmit)="onSubmit()"
+    class="w-5/6 flex flex-col items-center"
+  >
+    <input
+      hlmInput
+      class="w-full shadow-lg border focus:ring-0"
+      placeholder="email"
+      formControlName="email"
+    />
+    <input
+      hlmInput
+      class="w-full shadow-lg mt-4 focus:outline-none"
+      placeholder="Password"
+      formControlName="password"
+    />
+    <button hlmBtn class="mt-10 w-1/2 rounded-3xl" [disabled]="isLoading">
+      Login
+    </button>
+    <google-component mode="signin"/>
+  </form>
+  <a [routerLink]="['../signup']" class="mt-auto">or signup</a>
+</div>
